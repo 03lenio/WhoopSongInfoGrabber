@@ -35,7 +35,7 @@ def search_for_song(filename):
             mp3.artist = artist
             mp3.save()
 
-            print("Set song name to " + str(mp3.song) + " and artist to " + str(mp3.album))
+            print("Set tags!")
          
 
         except:
@@ -57,7 +57,7 @@ def search_for_song(filename):
             mp3.artist = artist
             mp3.save()
 
-            print("Set song name to " + str(mp3.song) + " and artist to " + str(mp3.album))
+            print("Set tags!")
          
 
 
@@ -85,7 +85,7 @@ def search_for_song(filename):
             mp3.artist = artist
             mp3.save()
 
-            print("Set song name to " + str(mp3.song) + " and artist to " + str(mp3.album))
+            print("Set tags!")
          
 
         except:
@@ -108,7 +108,7 @@ def search_for_song(filename):
                 mp3.artist = artist
                 mp3.save()
 
-                print("Set song name to " + str(mp3.song) + " and artist to " + str(mp3.album))
+                print("Set tags!")
              
 
 
@@ -120,7 +120,7 @@ def search_for_song(filename):
                 mp3.artist = artist
                 mp3.save()
 
-                print("Set song name to " + str(mp3.song) + " and artist to " + str(mp3.album))
+                print("Set tags!")
              
 
 
